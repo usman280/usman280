@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Zafar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full stack developer</h3>
 
 - 📫 How to reach me **usmanzafar280@gmail.com**
 
