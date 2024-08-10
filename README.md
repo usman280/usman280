@@ -3,7 +3,10 @@
 
 - 📫 How to reach me **usmanzafar280@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/usman-zafar-3169ba200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
